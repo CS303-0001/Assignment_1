@@ -5,12 +5,12 @@
 
 using namespace std;
 
-ArrayFunctions::ArrayFunctions(int size) : capacity(size), size(0)
+ArrayFunctions::ArrayFunctions(int size) : capacity(size), size(0) // Constructor with initial size
 {
     array = new int[capacity]; // Dynamically allocate memory for the array
 }
 
-ArrayFunctions::~ArrayFunctions()
+ArrayFunctions::~ArrayFunctions() // Destructor
 {
     delete[] array; // Deallocate memory for the array
 }
@@ -78,11 +78,11 @@ void ArrayFunctions::replaceOrRemove(int index, bool replaceWithZero)
     {
         array[index] = 0;
     }
-    else // If replaceWithZero is false, remove the value by shifting the elements
+    else // If replaceWithZero is false, remove the value by shifting the elements to the left
     {
         for (int i = index; i < size - 1; i++)
         {
-            array[i] = array[i + 1];
+            array[i] = array[i + 1]; 
         }
         size--; // Decrease the size of the array
     }
