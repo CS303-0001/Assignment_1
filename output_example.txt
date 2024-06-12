@@ -1,0 +1,116 @@
+.\main.exe
+PS C:\Users\asnb4\Documents\GitHub\Assignment_1> .\main.exe
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 1
+Enter the integer to check: 200
+Value 200 not found in the array
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 5
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 
+39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100                        Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 1
+Enter the integer to check: 50
+Value 50 found at index 49
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 2
+Enter the index to modify: 0
+Enter the new value: 2
+Old Value: 1, New Value: 2
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 5
+2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 
+39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100                        Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 3
+Enter the integer to add: 101
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 5
+2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 
+39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101                    Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 4
+Enter the index to replace or remove: 100
+Enter 1 to replace with zero, 0 to remove: 0
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 5
+2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 
+39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100                        Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 4
+Enter the index to replace or remove: 99
+Enter 1 to replace with zero, 0 to remove: 1
+Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 5
+2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 
+39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 0                          Menu:
+1. Check if an integer exists in the array
+2. Modify the value of an integer at a specific index
+3. Add a new integer to the end of the array
+4. Replace or remove an integer at a specific index
+5. Print the array
+6. Exit
+Enter your choice: 6
+Exiting program.
